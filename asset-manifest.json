@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/escribo_desafio_2/static/css/main.e6c13ad2.css",
+    "main.js": "/escribo_desafio_2/static/js/main.d3b8bd72.js",
+    "static/js/787.96a2aa97.chunk.js": "/escribo_desafio_2/static/js/787.96a2aa97.chunk.js",
+    "index.html": "/escribo_desafio_2/index.html",
+    "main.e6c13ad2.css.map": "/escribo_desafio_2/static/css/main.e6c13ad2.css.map",
+    "main.d3b8bd72.js.map": "/escribo_desafio_2/static/js/main.d3b8bd72.js.map",
+    "787.96a2aa97.chunk.js.map": "/escribo_desafio_2/static/js/787.96a2aa97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d3b8bd72.js"
+  ]
+}
